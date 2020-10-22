@@ -1,12 +1,12 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# materiau             diffusivité thermique(m**2*s**-1)
-#aluminium  98.8*10**-6
-#fer        22.8*10**-6
-#or         127.2*10**-6
-#cuivre     117*10**-6
-#argent     173*10**-6
+# materiau      diffusivité thermique(m**2*s**-1)
+#aluminium      98.8*10**-6
+#fer            22.8*10**-6
+#or             127.2*10**-6
+#cuivre         117*10**-6
+#argent         173*10**-6
 
 
 nx=50
